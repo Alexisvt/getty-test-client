@@ -11,6 +11,6 @@
     "prettier": true,
     "interface-name": false,
     "no-console": false,
-    "semicolon": [true, "always"]
+    "semicolon": [true, "always", "strict-bound-class-methods"]
   }
 }
